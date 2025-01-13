@@ -9,7 +9,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 # Main function to set up the bot
 def main():
     # Replace 'YOUR_BOT_TOKEN' with your actual Telegram Bot API token
-    bot_token = "YOUR_BOT_TOKEN"
+    bot_token = "7626493889:AAHERZUnMu6Qbms5bWpggooESfyWETvUMRU"
 
     # Create an application (bot instance)
     app = ApplicationBuilder().token(bot_token).build()
